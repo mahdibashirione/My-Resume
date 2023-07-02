@@ -1,5 +1,5 @@
 # Hi, I'm Mahdi 👋
-- [Linkedin](https://www.linkedin.com/in/mahdibashirione/) //
+- [Linkedin](https://www.linkedin.com/in/mahdibashirione/)
 
 # About Me
 - My name is Mehdi and I started front-end programming almost a year ago and I am learning typescript and after that I am going to start 
