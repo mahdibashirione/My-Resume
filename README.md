@@ -14,7 +14,6 @@
 - Axios
 
 # My Portfolio
-  - Tapsi demo
-     Implement by HTML, CSS and JavaScript. This project has been implemented in a responsive design. You can see live in this link and 
-     also see source code on GitHub.
+  - coming soon
+    
 
