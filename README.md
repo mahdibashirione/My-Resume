@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi There 👋
 - [Linkedin](https://www.linkedin.com/in/mahdibashirione/)
 
 # About Me 🧐
